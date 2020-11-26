@@ -1,0 +1,9 @@
+body{
+    height: 95vh;
+    width: 95vh;
+    display: flex;
+    justify-content: center; /*alinha mentos consecutivamente: horizontal, vertical e um embaixo do outro*/
+    align-items: center;
+    flex-direction: column;
+    color: rgb(113, 0, 128)
+}
